@@ -8,15 +8,5 @@
 		"preciofinal": 80,
 		"tipo": "novedad",
 		"imagen": "assets/img/mars.png"
-	},
-	{
-		"tarifa":"mas200",
-		"empresa":"Pepe",
-		"fibra": "200Mb",
-		"preciototal": 200,
-		"descuento": 20,
-		"preciofinal": 160,
-		"tipo": "novedad",
-		"imagen": "assets/img/neptune.png"
 	}
 ]
