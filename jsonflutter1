@@ -16,7 +16,7 @@
 		"preciototal": 200,
 		"descuento": 20,
 		"preciofinal": 160,
-		"tipo":"novedad"
+		"tipo":"novedad",
 		"imagen":"assets/img/neptune.png"
 	}
 ]
