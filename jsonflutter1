@@ -7,8 +7,8 @@
 		"descuento": 20,
 		"preciofinal": 80,
 		"tipo": "novedad",
-		"imagen": "assets/img/mars.png"
-	}
+		"imagen": "assets/img/mars.png",
+	},
 	{
 		"tarifa":"mas200",
 		"empresa":"Pepe",
@@ -17,6 +17,6 @@
 		"descuento": 20,
 		"preciofinal": 160,
 		"tipo": "novedad",
-		"imagen": "assets/img/neptune.png"
+		"imagen": "assets/img/neptune.png",
 	}
 ]
