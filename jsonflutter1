@@ -8,7 +8,7 @@
 		"preciofinal": 80,
 		"tipo": "novedad",
 		"imagen": "assets/img/mars.png"
-	},
+	}
 	{
 		"tarifa":"mas200",
 		"empresa":"Pepe",
