@@ -1,12 +1,1 @@
-[
-	{
-		"tarifa": "mas100",
-		"empresa": "Pepe",
-		"fibra": "100Mb",
-		"preciototal": 100,
-		"descuento": 20,
-		"preciofinal": 80,
-		"tipo": "novedad",
-		"imagen": "assets/img/mars.png"
-	}
-]
+
