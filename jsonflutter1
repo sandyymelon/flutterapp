@@ -8,7 +8,7 @@
 	"descuento": 20,
 	"preciofinal": 80,
 	"tipo": "novedad",
-	"imagen": "assets/img/mars.png"
+	"imagen": "assets/img/Movistar-azul-vertical.jpeg"
   },
   {
 	"id": 2,
@@ -19,6 +19,6 @@
 	"descuento": 20,
 	"preciofinal": 160,
 	"tipo":"novedad",
-	"imagen":"assets/img/neptune.png"
+	"imagen":"assets/img/vodafone_logo.png"
   }
 ]
