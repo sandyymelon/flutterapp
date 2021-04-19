@@ -5,7 +5,7 @@
 	"empresa": "Movistar",
 	"fibra": "100Mb",
 	"preciototal": "40.99",
-	"descuento": 0,
+	"descuento": "0",
 	"preciofinal": "40.99",
 	"tipo": "novedad",
 	"imagen": "assets/img/movistarpng.png"
@@ -16,7 +16,7 @@
 	"empresa":"Vodafone",
 	"fibra": "200Mb",
 	"preciototal": "25.99",
-	"descuento": 20,
+	"descuento": "20",
 	"preciofinal": "25.99",
 	"tipo":"novedad",
 	"imagen":"assets/img/vodafonepng.png"
