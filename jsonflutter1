@@ -4,9 +4,9 @@
 	"tarifa": "Fusion",
 	"empresa": "Movistar",
 	"fibra": "100Mb",
-	"preciototal": 40.99,
+	"preciototal": 40,
 	"descuento": 0,
-	"preciofinal": 40.99,
+	"preciofinal": 40,
 	"tipo": "novedad",
 	"imagen": "assets/img/movistarpng.png"
   },
@@ -15,9 +15,9 @@
 	"tarifa":"Ready?",
 	"empresa":"Vodafone",
 	"fibra": "200Mb",
-	"preciototal": 25.99,
+	"preciototal": 25,
 	"descuento": 20,
-	"preciofinal": 25.99,
+	"preciofinal": 25,
 	"tipo":"novedad",
 	"imagen":"assets/img/vodafonepng.png"
   }
