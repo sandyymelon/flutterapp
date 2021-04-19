@@ -21,7 +21,7 @@
 	"tipo":"novedad",
 	"imagen":"assets/img/vodafonepng.png"
   },
-    {
+  {
 	"id": 3,
 	"tarifa": "Simple",
 	"empresa": "Lowi",
@@ -43,7 +43,7 @@
 	"tipo":"novedad",
 	"imagen":"assets/img/yoigo.png"
   },
-    {
+  {
 	"id": 5,
 	"tarifa": "WiMax",
 	"empresa": "Inalnet",
