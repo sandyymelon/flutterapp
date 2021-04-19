@@ -1,0 +1,68 @@
+[
+  {
+	"id": 1,
+	"tarifa": "Fusion",
+	"empresa": "Movistar",
+	"fibra": "100Mb",
+	"preciototal": 40.99,
+	"descuento": 0,
+	"preciofinal": 40.99,
+	"tipo": "novedad",
+	"imagen": "assets/img/movistarpng.png"
+  },
+  {
+	"id": 2,
+	"tarifa":"Ready?",
+	"empresa":"Vodafone",
+	"fibra": "200Mb",
+	"preciototal": 25.99,
+	"descuento": 20,
+	"preciofinal": 25.99,
+	"tipo":"novedad",
+	"imagen":"assets/img/vodafonepng.png"
+  },
+    {
+	"id": 3,
+	"tarifa": "Simple",
+	"empresa": "Lowi",
+	"fibra": "100Mb",
+	"preciototal": 35.99,
+	"descuento": 0,
+	"preciofinal": 35.99,
+	"tipo": "novedad",
+	"imagen": "assets/img/lowi.png"
+  },
+  {
+	"id": 4,
+	"tarifa":"Infinita",
+	"empresa":"Yoigo",
+	"fibra": "600Mb",
+	"preciototal": 52.99,
+	"descuento": 20,
+	"preciofinal": 52.99,
+	"tipo":"novedad",
+	"imagen":"assets/img/yoigo.png"
+  },
+    {
+	"id": 5,
+	"tarifa": "WiMax",
+	"empresa": "Inalnet",
+	"fibra": "300Mb",
+	"preciototal": 18.99,
+	"descuento": 0,
+	"preciofinal": 18.99,
+	"tipo": "novedad",
+	"imagen": "assets/img/inalnet.png"
+  },
+  {
+	"id": 6,
+	"tarifa":"Love",
+	"empresa":"Orange",
+	"fibra": "200Mb",
+	"preciototal": 25.99,
+	"descuento": 20,
+	"preciofinal": 25.99,
+	"tipo":"novedad",
+	"imagen":"assets/img/orange.png"
+  }
+]
