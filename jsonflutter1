@@ -18,7 +18,7 @@
 	"preciototal": "25.99",
 	"descuento": "20",
 	"preciofinal": "25.99",
-	"tipo":"novedad",
+	"tipo":"recomendacion",
 	"imagen":"assets/img/vodafonepng.png"
   },
   {
@@ -40,7 +40,7 @@
 	"preciototal": "52.99",
 	"descuento": "20",
 	"preciofinal": "52.99",
-	"tipo":"novedad",
+	"tipo":"top",
 	"imagen":"assets/img/yoigo.png"
   },
   {
@@ -51,7 +51,7 @@
 	"preciototal": "18.99",
 	"descuento": "0",
 	"preciofinal": "18.99",
-	"tipo": "novedad",
+	"tipo": "top",
 	"imagen": "assets/img/inalnet.png"
   },
   {
@@ -62,7 +62,7 @@
 	"preciototal": "25.99",
 	"descuento": "20",
 	"preciofinal": "25.99",
-	"tipo":"novedad",
+	"tipo":"oferta",
 	"imagen":"assets/img/orange.png"
   }
 ]
