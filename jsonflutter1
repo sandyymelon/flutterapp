@@ -54,17 +54,6 @@
 	"tipo": "top",
 	"imagen": "assets/img/inalnet.png"
   },
-    {
-	"id": 7,
-	"tarifa":"InfinitaPlus",
-	"empresa":"Yoigo",
-	"fibra": "1000Mb",
-	"preciototal": "42.99",
-	"descuento": "10",
-	"preciofinal": "42.99",
-	"tipo":"oferta",
-	"imagen":"assets/img/yoigo.png"
-  },
   {
 	"id": 6,
 	"tarifa":"Love",
@@ -75,5 +64,16 @@
 	"preciofinal": "25.99",
 	"tipo":"oferta",
 	"imagen":"assets/img/orange.png"
+  },
+  {
+	"id": 7,
+	"tarifa":"InfinitaPlus",
+	"empresa":"Yoigo",
+	"fibra": "1000Mb",
+	"preciototal": "42.99",
+	"descuento": "10",
+	"preciofinal": "42.99",
+	"tipo":"oferta",
+	"imagen":"assets/img/yoigo.png"
   }
 ]
